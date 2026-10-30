@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Build directories
+**/build/
+
+# CMake generated files
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/Makefile
+
+# Executables
+*.exe
+*.out
